@@ -1,6 +1,6 @@
 # Hi there; bienvenue
 
-[![Twitter Badge](https://img.shields.io/badge/-@Cjnenye-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/codesmitheer)](https://twitter.com/codesmitheer)
+[![Twitter Badge](https://img.shields.io/badge/-@codesmitheer-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/codesmitheer)](https://twitter.com/codesmitheer)
 
 I'm a Frontend web developer, who pride herself in designing responsive User Interface for great User Experience. I'm passionate about web engineering and creating solutions to solve user problems through Agile methodology. Building up I wish to speak at meetups,conferences, as time progress.
 
