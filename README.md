@@ -10,7 +10,7 @@ I'm a Frontend web developer, who pride herself in designing responsive User Int
 - 🌱 I’m currently learning/building with JavaScript and Reactjs.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/14t2405VjOBMfC-rjjBtxLKnQb-Jk1Gcg/view?usp=drivesdk) and contact me by emailing mailto:chinenyejuliet2019@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1CfgXqe3-iFbeJgJwGF3F-g-yDOMvGjji/view?usp=drivesdk) and contact me by emailing mailto:chinenyejuliet2019@gmail.com.
 
 ---
 
